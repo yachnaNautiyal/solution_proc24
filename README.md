@@ -1,1 +1,1 @@
-# solution_proc24
+# Project_Template_24
